@@ -1,0 +1,24 @@
+html {
+  width: 100%;
+  margin: auto;
+}
+
+.container{
+  margin-top: 20px;
+  text-align: center;
+}
+
+.number {
+  display: inline-block;
+  padding: 5px;
+}
+
+.square {
+  width: 30px;
+  height: 30px;
+  float: left;
+}
+
+.first {
+  clear: left;
+}
